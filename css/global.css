@@ -1,0 +1,19 @@
+.container-body {
+	height: 493px;
+}
+.row-footer {
+	float: right;
+	font-weight: bold;
+	font-size: 15px;
+}
+.li-tour{
+	padding-right: 114px;
+}
+.img-body{
+	height:250px;
+	width:250px;
+}
+#login_user{
+	float: right;
+padding-top: 30px;
+}

@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{ margin-top:0px; background-color:#FFFFFF;}
+
+.head
+{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;}
+
+.txt
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:400; }
+
+.txt_v10
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#FFFFFF; padding-left:10px; font-weight:bold;}
+
+.txt_bord
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; padding-left:10px; font-weight:400;}
+
+.txt_v11
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#FFFFFF; padding-left:10px; font-weight:bold;}
+
+.txt_ora
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; color:#EF7B18; padding-right:20px; padding-left:20px;}
+
+.head_color
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold; color:#EF7B18; padding-right:20px; padding-left:20px;}
+
+.color_v11
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;  color:#EF7B18; padding-right:20px; padding-left:20px;}
+
+.txt_bold
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; padding-left:10px; text-align:left; font-weight:bold;}
+
+.txt_w10
+{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; color:#FFFFFF; padding-left:3px; }
+
+.scrolltxt 
+{height:200px; width:700px; overflow:scroll;
+ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; 
+ font-weight:400; background-image:url(../images/qz_gray2.jpg);
+ text-align: justify; border:1px; border-color:#000000; 
+ border-style:ridge; padding-left:10px; padding-right:10px; padding-top:10px; }
+
+.footer
+{
+ background-image: url(Images/qz_ora2.jpg);
+ height: 21px;
+ font-family:Verdana, Arial, Helvetica, sans-serif; 
+ font-size:11px; 
+ text-align:left;
+ color:White;	
+}
+.t1
+{
+ background-image: url(Images/qz_ora2.jpg);
+ height: 21px;
+ font-family:Verdana, Arial, Helvetica, sans-serif; 
+ font-size:11px; 
+ font-weight:bold;
+ color:White;	
+}
+.t2
+{
+ background-image: url(Images/qz_gray2.jpg);
+ height: 21px;
+ font-family:Verdana, Arial, Helvetica, sans-serif; 
+ font-size:11px; 
+ font-weight:normal;
+ color:Black;	
+ 
+	}
+	.t3
+{
+ background-image: url(Images/qz_gray1.jpg);
+ height: 21px;
+ font-family:Verdana, Arial, Helvetica, sans-serif; 
+ font-size:11px; 
+ font-weight:normal;
+ color:Black;	
+ 
+ 
+	}
+	
+.txtcont
+{font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-size:11px;
+ font-weight:400;
+  text-align:left;
+  list-style-image: url(Images/qz_ora2.jpg);
+ LINE-HEIGHT: 15px;
+   
+   }
+  
+  .li
+  {	list-style-image: url(Images/qz_ora2.jpg)	}
+  .lblerr
+  {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	text-align:center;
+	color:Red;   
+	height:100%;
+	width:100%
+ 
+	}
+	.lbl
+  {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	text-align:center;
+	color:Red;   
+	height:100%;
+	width:100%
+ 
+	}
+	.txtbox
+	{font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	height:50%;
+	width:50%;
+	color:Black;
+	}
+	.dropdownlist
+	{
+		font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	height:100%;
+	width:50%;
+	 color:Black;
+	  text-align:right;
+	  }
+	.gvrow
+	{
+	text-align:center;
+	background-image: url(Images/qz_gray2.jpg);
+	height: 21px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; 
+	font-size:11px; 
+	font-weight:lighter;
+	color:Black;	
+	}
+	.gvheader
+	{ 		
+	 text-align:center;
+	 font-weight:normal;
+	 background-image: url(Images/qz_ora2.jpg);
+	 height: 21px;
+	 font-family:Verdana, Arial, Helvetica, sans-serif; 
+     font-size:11px; 
+     color:White;	
+     }
+ .gv
+ {	 position: relative;
+	 top: -34px;
+	 Width:81%;
+	 Height:100%;   
+	
+}
+.btn
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:400;
+	text-align:center;
+	color:Black;   
+	height:100%;
+	width:15%;
+	background-color:Orange;
+	border:"Outset;1px";
+  }
+
+.tblrow
+{
+ background-image:url(Images/qz_gray1.jpg);
+ height: 21px;
+ font-family:Verdana, Arial, Helvetica, sans-serif; 
+ font-size:11px; 
+ font-weight:normal;
+ color:Black;	
+	}
+	 
+	 	.hyplink
+  {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	text-align:center;
+	color:Black;   
+	height:100%;
+	width:100%
+ 
+	}
+	 
+	.treeview
+	{
+	  background-image:url(Images/qz_gray2.jpg);
+	  	    
+	 }
+	
+	
+	
